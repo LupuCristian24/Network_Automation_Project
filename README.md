@@ -105,6 +105,7 @@ The main menu will guide you through the available options:
 - **Enable RIP version 2**
 - **Configure Static Routes**
 - **Enable HSRP**
+- **Verify Connectivity**
 
 #### Switch Configuration
 - **Configure VLANs**
@@ -112,4 +113,5 @@ The main menu will guide you through the available options:
 - **Enable RSTP**
 - **Configure STP Security**
 - **Enable HSRP for Multilayer Switches**
+- **Verify Connectivity**
 
